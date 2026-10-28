@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Constant Ubong Ndifreke 👋
 
-<!--
-**constantndifreke/constantndifreke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Content Producer | Technical Writer | Aspiring Open Source Contributor
 
-Here are some ideas to get you started:
+🌱 Currently learning Git, GitHub & Documentation for Outreachy May 2027
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 My Mission:
+- Master open source contribution
+- Create world-class technical documentation
+- Help beginners understand tech
+
+💻 Tech: Git, GitHub, Markdown, Technical Writing
+
+📚 My First Repo: MY-FIRST-DOCS
+
+📫 Open to mentorship for Outreachy!
